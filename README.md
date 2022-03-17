@@ -11,6 +11,7 @@ See [Why](#why) and [Contributing](#contributing). Alexa Rank: This is an estima
 | **Name**                                                                                 | **Alexa Rank** |            | **Hires these Types**                     |
 | [Upwork](https://upwork.com)                                                             | 200            |            | Designers, Developers, & Others           |
 | [Freelancer](https://www.freelancer.com/affiliates/andychase)                            | 700            |            | Designers, Developers, & Others           |
+| [Rockerstop](https://www.rockerstop.com/)                                                | 800            |            | Designers, Developers, & Others   
 | [PeoplePerHour](https://www.peopleperhour.com)                                           | 2,000          | & Gigs     | Designers, Developers, & Others           |
 | [Toptal](https://www.toptal.com/BLjoyn/worlds-top-talent)                                | 3,000          |            | Designers, Developers, & Others           |
 | [Guru.com](http://www.guru.com/)                                                         | 5,000          |            | Designers, Developers, & Others           |
